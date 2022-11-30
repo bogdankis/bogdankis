@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bogdankis
 - 👀 I’m interested in Java Back-end Development
-- 🌱 I’m currently learning Java, Spring Boot, Angular,Vue.js
+- 🌱 I’m currently learning Java, Spring Boot, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
